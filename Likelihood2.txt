@@ -1,0 +1,20 @@
+RAxML-HPC v.8 on XSEDE - Parameters
+bootstrap_value_	1000
+choose_bootstop_	specify
+choose_bootstrap_	x
+convergence_criterion_	false
+datatype_	dna
+disable_seqcheck_	false
+dna_gtrcat_	GTRGAMMA
+intermediate_treefiles_	false
+more_memory_	false
+no_bfgs_	false
+outgroup_	Choanoflagellata
+outsuffix_	result
+parsimony_seed_val_	12345
+printbrlength_	false
+provide_parsimony_seed_	true
+rearrangement_yes_	false
+runtime_	10
+seed_value_	12345
+select_analysis_	fa
